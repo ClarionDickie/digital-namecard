@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:matt@clarioncannabis.com
 TEL;type=WORK;type=VOICE:+351.917.294.624
 item1.ADR;type=WORK;type=pref:;; Avenida Fontes Pereira de Melo 6 ;;;1069-106;Lisbon, Portugal
 item1.X-ABADR:sg
-item2.URL;type=pref:linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+item2.URL;type=pref:clarioncannabis.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
